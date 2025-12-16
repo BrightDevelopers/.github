@@ -14,7 +14,7 @@
 
 **BrightDeveloper** is the official developer program from [BrightSign®](https://brightsign.biz), the global market leader in digital signage media players.
 
-This GitHub organization is "by developers for developers" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
+This GitHub organization is "**by developers __for__ developers**" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
 
 These pages are specific to folks writing software that works with BrightSign.  If you need information on how to USE BrightSign products, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
 
