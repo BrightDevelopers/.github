@@ -1,12 +1,22 @@
 
-<p align="center">
-  <img src="../assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
-</p>
+<div align="center">
+<img src="./assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
 
-<p align="center">
-  <a href="https://brightsign.biz"><img src="https://img.shields.io/badge/brightsign.biz-311C6B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48bGluZSB4MT0iMiIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg==&logoColor=white" alt="Website"></a>
-  <a href="https://docs.brightsign.biz"><img src="https://img.shields.io/badge/Documentation-701896?style=flat&logo=readthedocs&logoColor=white" alt="Docs"></a>
-</p>
+**The Complete Guide to BrightSign® Development**
+
+*Attract. Engage. Captivate.*
+
+[![BrightSign](https://img.shields.io/badge/brightsign.biz-8A2BE2?style=for-the-badge)](https://brightsign.biz)
+[![Product Documentation](https://img.shields.io/badge/Product%20Docs-701896?style=for-the-badge)](https://docs.brightsign.biz/)
+[![BSN.cloud](https://img.shields.io/badge/BSN%20Cloud-49C0FF?style=for-the-badge)](https://www.bsn.cloud/)
+
+**The Complete Guide to BrightSign® Development**
+
+*Attract. Engage. Captivate.*
+
+---
+
+</div>
 
 **The Complete Guide to BrightSign® Development**
 
