@@ -20,10 +20,18 @@ This organization hosts open-source tools, SDKs, example code, and documentation
 
 ## Getting Started
 
+There are several ways to work with BrightSign:
+
+**Use our products** – For most users, our turnkey solutions provide everything you need:
+- [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) – Create and publish presentations without code
+- [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/) – Manage your entire digital signage network from the cloud
+
+**Extend the platform** – This site is for developers who want to go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.
+
 | Resource | Description |
 |----------|-------------|
 | [**Player APIs**](https://docs.brightsign.biz/developers) | JavaScript and REST APIs for controlling BrightSign players |
-| [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) | Create and publish presentations without code |
+| [**Cloud APIs**](https://docs.brightsign.biz) | APIs for integrating with BSN.cloud |
 | [**Developer Documentation**](https://docs.brightsign.biz) | Full technical reference and guides |
 
 ---
