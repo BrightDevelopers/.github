@@ -27,8 +27,9 @@ This site is for developers who want to go beyond standard BrightSign capabiliti
 
 | Resource | Description |
 |----------|-------------|
-| [**JavaScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-3-javascript-development) | JavaScript playback, Node.js programs, and debugging |
+| [**Introduction to BrightSign Players**](https://github.com/BrightDevelopers/developer-documentation/blob/main/part-1-getting-started/01-introduction-to-brightsign-players.md) | General introduction |
 | [**BrightScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-2-brightscript-development) | BrightScript language reference and design patterns |
+| [**JavaScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-3-javascript-development) | JavaScript playback, Node.js programs, and debugging |
 | [**Advanced Topics**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-4-advanced-topics) | Hardware and AI (NPU) access and extensions |
 | [**BSN.cloud APIs**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-5-bsn-cloud) | Integration, provisioning, and per-player control |
 
