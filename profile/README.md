@@ -24,7 +24,7 @@ There are several ways to work with BrightSign:
 
 **Use our products** – For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
 
-This site is for developers who want to **extend the platform**  and go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.
+**Extend the platform** - This site is for developers who want to go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.
 
 | Resource | Description |
 |----------|-------------|
