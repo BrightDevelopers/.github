@@ -16,17 +16,14 @@
 
 This GitHub organization is "**by developers __for__ developers**" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
 
-These pages are specific to folks writing software that works with BrightSign.  If you need information on how to USE BrightSign products, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
+These pages are specific to folks writing software that works with BrightSign.  For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
+If you need information on how to **use these BrightSign products**, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
 
 ---
 
 ## Getting Started
 
-There are several ways to work with BrightSign:
-
-**Use our products** – For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
-
-**Extend the platform** - This site is for developers who want to go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.  [**Complete technical references and guides**](https://github.com/BrightDevelopers/developer-documentation) are avaiable, but here's some direct links:
+This site is for developers who want to go beyond standard BrightSign capabilities and **Extend the BrightSign platform**. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.  [**Complete technical references and guides**](https://github.com/BrightDevelopers/developer-documentation) are avaiable, but here's some direct links:
 
 | Resource | Description |
 |----------|-------------|
