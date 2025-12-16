@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/BrightSign-Logo_Square_300x300px.png" alt="BrightDevelopers" >
+  <img src="../images/BrightSign-Logo_Square_300x300px.png" alt="BrightDevelopers" >
 </p>
 
 # Build for BrightSign
