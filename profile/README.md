@@ -31,7 +31,7 @@ This site is for developers who want to go beyond standard BrightSign capabiliti
 | [**BrightScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-2-brightscript-development) | BrightScript language reference and design patterns |
 | [**JavaScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-3-javascript-development) | JavaScript playback, Node.js programs, and debugging |
 | [**Advanced Topics**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-4-advanced-topics) | Hardware and AI (NPU) access and extensions |
-| [**BSN.cloud APIs**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-5-bsn-cloud) | Integration, provisioning, and per-player control |
+| [**Integrating with BSN.cloud**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-5-bsn-cloud) | Integration, provisioning, and per-player control |
 
 ---
 
@@ -40,7 +40,7 @@ This site is for developers who want to go beyond standard BrightSign capabiliti
 Questions? Ideas? Connect with us:
 
 - 💬 [Discussions](https://github.com/orgs/BrightDevelopers/discussions) – Ask questions and share ideas
-- 🐛 [Issues](https://github.com/BrightDevelopers/.github/issues) – Report bugs or request features
+- 🐛 [Issues](https://github.com/BrightDevelopers/developer-documentation/issues) – Report bugs or request features
 - 📧 [BrightSign Support](https://www.brightsign.biz/support) – Direct support from BrightSign
 
 ---
