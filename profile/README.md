@@ -24,24 +24,14 @@ There are several ways to work with BrightSign:
 
 **Use our products** – For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
 
-**Extend the platform** - This site is for developers who want to go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.
+**Extend the platform** - This site is for developers who want to go beyond standard BrightSign capabilities. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.  [**Complete technical references and guides**](https://github.com/BrightDevelopers/developer-documentation) are avaiable, but here's some direct links:
 
 | Resource | Description |
 |----------|-------------|
-| [**Developer Documentation**](https://github.com/BrightDevelopers/developer-documentation) | Full technical reference and guides |
 | [**JavaScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-3-javascript-development) | JavaScript playback, Node.js programs, and debugging |
 | [**BrightScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-2-brightscript-development) | BrightScript language reference and design patterns |
+| [**Advanced Topics**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-4-advanced-topics) | Hardware and AI (NPU) access and extensions |
 | [**BSN.cloud APIs**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-5-bsn-cloud) | Integration, provisioning, and per-player control |
-
----
-
-## Featured Repositories
-
-Explore our tools and examples:
-
-- 🛠️ **SDKs & Libraries** – Client libraries for common languages
-- 📦 **Templates** – Starter projects to accelerate development
-- 📖 **Examples** – Sample implementations and use cases
 
 ---
 
@@ -51,12 +41,10 @@ Questions? Ideas? Connect with us:
 
 - 💬 [Discussions](https://github.com/orgs/BrightDevelopers/discussions) – Ask questions and share ideas
 - 🐛 [Issues](https://github.com/BrightDevelopers/.github/issues) – Report bugs or request features
-- 📧 [Developer Support](https://www.brightsign.biz/support) – Direct support from BrightSign
+- 📧 [BrightSign Support](https://www.brightsign.biz/support) – Direct support from BrightSign
 
 ---
 
 <p align="center">
   <sub>Brought to Life by BrightSign®</sub>
 </p>
-
-Welcome to the BrightDevelopers home.  If you are interested in building software (or hardware!) that works with BrightSign, you have come to the right place.
