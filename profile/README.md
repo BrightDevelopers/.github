@@ -8,6 +8,10 @@
   <a href="https://docs.brightsign.biz"><img src="https://img.shields.io/badge/Documentation-701896?style=flat&logo=readthedocs&logoColor=white" alt="Docs"></a>
 </p>
 
+**The Complete Guide to BrightSign® Development**
+
+*Attract. Engage. Captivate.*
+
 ---
 
 ## About BrightDeveloper
