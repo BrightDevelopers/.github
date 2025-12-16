@@ -45,10 +45,23 @@ Questions? Ideas? Connect with us:
 
 - 💬 [Discussions](https://github.com/orgs/BrightDevelopers/discussions) – Ask questions and share ideas
 - 🐛 [Issues](https://github.com/BrightDevelopers/developer-documentation/issues) – Report bugs or request features
-- 📧 [BrightSign Support](https://www.brightsign.biz/support) – Direct support from BrightSign
+
+## Support
+
+Need help? BrightSign provides comprehensive support resources:
+
+- **Product Documentation**: [docs.brightsign.biz](https://docs.brightsign.biz/)
+- **Developer Community**: [BrightSign Community Forums](https://community.brightsign.biz/)
+- **Product Support**: [brightsign.biz/support](https://www.brightsign.biz/support/)
 
 ---
 
-<p align="center">
-  <sub>Brought to Life by BrightSign®</sub>
-</p>
+<div align="center">
+
+<img src="assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
+
+**Brought to Life by BrightSign®**
+
+© 2025 BrightSign LLC. All rights reserved.
+
+</div>
