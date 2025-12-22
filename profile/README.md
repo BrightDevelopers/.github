@@ -21,6 +21,19 @@ This program is for software developers building on BrightSign. If you just need
 
 ---
 
+## Vision & Mission
+
+### Mission
+Inspire and empower software developers to build innovative solutions on the BrightSign platform (and enabling AI assistance)
+
+### Vision
+Make BrightSign the platform developers choose first. Clear docs, working code, and a complete SDK that AI assistants can use to generate correct, working integrations. Ship in hours, not weeks.
+
+### AI-First Approach
+Developers increasingly use LLMs to accelerate their work. **This is the future, and we're building for it.** Every piece of documentation, every code example, and especially our SDK is designed to work seamlessly with AI assistants. When a developer pastes our docs into Claude, Copilot, or Cursor, the generated code should work on the first try.
+
+---
+
 ## How We Think About Developer Experience
 
 We've designed everything here for both **humans and AI assistants**. Every guide explains the *why*, not just the *what*. Every code example runs without modification. Paste any of our documentation into Claude, Copilot, or Cursor and get working code.
@@ -34,24 +47,44 @@ We've designed everything here for both **humans and AI assistants**. Every guid
 
 ---
 
+## The Go SDK: gopurple
+
+**[gopurple](https://github.com/BrightDevelopers/gopurple)** is our Go SDK for BSN.cloud—complete, tested, and designed for AI-assisted development.
+
+```go
+client, _ := gopurple.New()
+client.Authenticate(ctx)
+devices, _ := client.Devices.List(ctx, nil)
+```
+
+**What it includes:**
+- OAuth2 authentication with automatic token refresh
+- Device management, content management, B-Deploy provisioning
+- Remote DWS: screenshots, reboots, file operations—all remotely
+- **73 working example programs** (not snippets—complete CLI tools)
+
+**Why Go?** AI writes excellent Go code. Strong typing catches errors at compile time, providing immediate feedback on AI-generated code. Single binary deployment eliminates dependency management. And the patterns translate—AI assistants can reference gopurple to generate correct code in any language.
+
+---
+
 ## Repositories
 
 | Repository | Description |
 |------------|-------------|
-| [**brightdevelopers**](https://github.com/BrightDevelopers/brightdevelopers) | Technical documentation, API references, and developer guides |
-| [**cloud-api-examples**](https://github.com/BrightDevelopers/cloud-api-examples) | Working examples for BSN.cloud APIs—content management, player control, scheduling |
+| [**gopurple**](https://github.com/BrightDevelopers/gopurple) | Go SDK for BSN.cloud — start here for cloud integrations |
+| [**technical-documentation**](https://github.com/BrightDevelopers/technical-documentation) | Technical documentation, API references, and developer guides |
+| [**cloud-api-examples**](https://github.com/BrightDevelopers/cloud-api-examples) | Additional examples for BSN.cloud APIs |
 | [**player-examples**](https://github.com/BrightDevelopers/player-examples) | On-player development examples for Chromium, Node.js, and local APIs |
-| [**gopurple**](https://github.com/BrightDevelopers/gopurple) | Go SDK for BSN.cloud |
 
 ---
 
 ## Getting Started
 
-**Building a cloud integration?** Start with [cloud-api-examples](https://github.com/BrightDevelopers/cloud-api-examples). You'll find complete examples for authentication, content upload, player management, and scheduling.
+**Building a cloud integration?** Start with **[gopurple](https://github.com/BrightDevelopers/gopurple)**. The SDK handles authentication, pagination, error handling—everything you need to integrate with BSN.cloud.
 
 **Building an on-player application?** Start with [player-examples](https://github.com/BrightDevelopers/player-examples). Interactive kiosks, data-driven displays, and local device control.
 
-**Want to understand the platform?** The [brightdevelopers](https://github.com/BrightDevelopers/brightdevelopers) repo has comprehensive documentation covering BrightScript, JavaScript, BSN.cloud integration, and advanced topics like NPU development.
+**Want to understand the platform?** The [technical-documentation](https://github.com/BrightDevelopers/technical-documentation) repo has comprehensive documentation covering BrightScript, JavaScript, BSN.cloud integration, and advanced topics like NPU development.
 
 ---
 
