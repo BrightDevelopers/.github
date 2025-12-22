@@ -42,7 +42,6 @@ We've designed everything here for both **humans and AI assistants**. Every guid
 | [**cloud-api-examples**](https://github.com/BrightDevelopers/cloud-api-examples) | Working examples for BSN.cloud APIs—content management, player control, scheduling |
 | [**player-examples**](https://github.com/BrightDevelopers/player-examples) | On-player development examples for Chromium, Node.js, and local APIs |
 | [**gopurple**](https://github.com/BrightDevelopers/gopurple) | Go SDK for BSN.cloud |
-| [**charter**](https://github.com/BrightDevelopers/charter) | Program charter and internal planning documents |
 
 ---
 
