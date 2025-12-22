@@ -2,63 +2,70 @@
 <div align="center">
 <img src="../assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
 
-**The Complete Guide to BrightSign® Development**
-
-*Attract. Engage. Captivate.*
+**Build on BrightSign. Ship in hours, not weeks.**
 
 [![BrightSign](https://img.shields.io/badge/brightsign.biz-8A2BE2?style=for-the-badge)](https://brightsign.biz)
-[![Product Documentation](https://img.shields.io/badge/Product%20Docs-701896?style=for-the-badge)](https://docs.brightsign.biz/)
 [![BSN.cloud](https://img.shields.io/badge/BSN%20Cloud-49C0FF?style=for-the-badge)](https://www.bsn.cloud/)
 
 </div>
 
 ---
 
-## About BrightDeveloper
+## What is BrightDeveloper?
 
-**BrightDeveloper** is the official developer program from [BrightSign®](https://brightsign.biz), the global market leader in digital signage media players.
+**BrightDeveloper** is BrightSign's developer program—clear documentation, working code, and starter projects ready to customize. Whether you're building a CMS, a kiosk application, or an AI-powered analytics solution, we want you to go from idea to production as fast as possible.
 
-This GitHub organization is "**by developers __for__ developers**" and hosts detailed Engineering and API documentation, example code, SDKs, and open-source tools to help you build applications that integrate with BrightSign.
+Our goal: **your first successful API call in under 15 minutes**, and a clear path from "Hello World" to a fully working application.
 
-These pages are specific to folks writing software that works with BrightSign.  For many users, our turnkey solutions provide everything you need.  You can create and publish presentations without code using [**BrightAuthor:connected**](https://www.brightsign.biz/brightauthor-connected/) and manage players using [**BSN.cloud**](https://www.brightsign.biz/bsn-cloud/).
-If you need information on how to **use these BrightSign products**, please see the [BrightSign Support Site.](https://www.brightsign.biz/support)
+This program is for software developers building on BrightSign. If you just need to create presentations and manage players without writing code, check out [BrightAuthor:connected](https://www.brightsign.biz/brightauthor-connected/) and [BSN.cloud](https://www.brightsign.biz/bsn-cloud/).
+
+---
+
+## How We Think About Developer Experience
+
+We've designed everything here for both **humans and AI assistants**. Every guide explains the *why*, not just the *what*. Every code example runs without modification. Paste any of our documentation into Claude, Copilot, or Cursor and get working code.
+
+**Our priorities:**
+
+1. **Cloud-first** — BSN.cloud APIs for managing players, content, and schedules at scale
+2. **On-player development** — Chromium (HTML/JavaScript) and Node.js for local applications
+3. **Edge AI** — NPU development on XS6 for computer vision and analytics
+4. **Extensions** — For capabilities that require going deeper
+
+---
+
+## Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [**brightdevelopers**](https://github.com/BrightDevelopers/brightdevelopers) | Technical documentation, API references, and developer guides |
+| [**cloud-api-examples**](https://github.com/BrightDevelopers/cloud-api-examples) | Working examples for BSN.cloud APIs—content management, player control, scheduling |
+| [**player-examples**](https://github.com/BrightDevelopers/player-examples) | On-player development examples for Chromium, Node.js, and local APIs |
+| [**gopurple**](https://github.com/BrightDevelopers/gopurple) | Go SDK for BSN.cloud |
+| [**charter**](https://github.com/BrightDevelopers/charter) | Program charter and internal planning documents |
 
 ---
 
 ## Getting Started
 
-This site is for developers who want to go beyond standard BrightSign capabilities and **Extend the BrightSign platform**. Every layer of our platform exposes APIs—from hardware with "BrightSign Inside" (e.g., HS145 and XS156), to the Player APIs, all the way to the Cloud APIs.  [**Complete technical references and guides**](https://github.com/BrightDevelopers/developer-documentation) are avaiable, but here's some direct links:
+**Building a cloud integration?** Start with [cloud-api-examples](https://github.com/BrightDevelopers/cloud-api-examples). You'll find complete examples for authentication, content upload, player management, and scheduling.
 
-| Resource | Description |
-|----------|-------------|
-| [**Introduction to BrightSign Players**](https://github.com/BrightDevelopers/developer-documentation/blob/main/part-1-getting-started/01-introduction-to-brightsign-players.md) | General introduction |
-| [**BrightScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-2-brightscript-development) | BrightScript language reference and design patterns |
-| [**JavaScript Development**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-3-javascript-development) | JavaScript playback, Node.js programs, and debugging |
-| [**Advanced Topics**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-4-advanced-topics) | Hardware and AI (NPU) access and extensions |
-| [**Integrating with BSN.cloud**](https://github.com/BrightDevelopers/developer-documentation/tree/main/part-5-bsn-cloud) | Integration, provisioning, and per-player control |
+**Building an on-player application?** Start with [player-examples](https://github.com/BrightDevelopers/player-examples). Interactive kiosks, data-driven displays, and local device control.
+
+**Want to understand the platform?** The [brightdevelopers](https://github.com/BrightDevelopers/brightdevelopers) repo has comprehensive documentation covering BrightScript, JavaScript, BSN.cloud integration, and advanced topics like NPU development.
 
 ---
 
-## Community
+## Community & Support
 
-Questions? Ideas? Connect with us:
-
-- 💬 [Discussions](https://github.com/orgs/BrightDevelopers/discussions) – Ask questions and share ideas
-- 🐛 [Issues](https://github.com/BrightDevelopers/developer-documentation/issues) – Report bugs or request features
-
-## Support
-
-Need help? BrightSign provides comprehensive support resources:
-
-- **Product Documentation**: [docs.brightsign.biz](https://docs.brightsign.biz/)
-- **Developer Community**: [BrightSign Community Forums](https://community.brightsign.biz/)
-- **Product Support**: [brightsign.biz/support](https://www.brightsign.biz/support/)
+- [Discussions](https://github.com/orgs/BrightDevelopers/discussions) — Ask questions and share ideas
+- [BrightSign Community Forums](https://community.brightsign.biz/) — Broader community discussions
+- [Product Documentation](https://docs.brightsign.biz/) — Official BrightSign docs
+- [Product Support](https://www.brightsign.biz/support/) — Hardware and product support
 
 ---
 
 <div align="center">
-
-<img src="assets/brand/brightsign-logo-square.png" alt="BrightSign" width="60">
 
 **Brought to Life by BrightSign®**
 
