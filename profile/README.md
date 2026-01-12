@@ -73,7 +73,6 @@ devices, _ := client.Devices.List(ctx, nil)
 |------------|-------------|
 | [**gopurple**](https://github.com/BrightDevelopers/gopurple) | Go SDK for BSN.cloud — start here for cloud integrations |
 | [**technical-documentation**](https://github.com/BrightDevelopers/technical-documentation) | Technical documentation, API references, and developer guides |
-| [**cloud-api-examples**](https://github.com/BrightDevelopers/cloud-api-examples) | Additional examples for BSN.cloud APIs |
 | [**player-examples**](https://github.com/BrightDevelopers/player-examples) | On-player development examples for Chromium, Node.js, and local APIs |
 
 ---
@@ -88,12 +87,20 @@ devices, _ := client.Devices.List(ctx, nil)
 
 ---
 
-## Community & Support
+## Support
 
-- [Discussions](https://github.com/orgs/BrightDevelopers/discussions) — Ask questions and share ideas
-- [BrightSign Community Forums](https://community.brightsign.biz/) — Broader community discussions
-- [Product Documentation](https://docs.brightsign.biz/) — Official BrightSign docs
-- [Product Support](https://www.brightsign.biz/support/) — Hardware and product support
+Need help? BrightSign provides comprehensive support resources:
+
+- **Discussions**: [GitHub Discussions](https://github.com/orgs/BrightDevelopers/discussions) — Ask questions and share ideas
+- **Developer Community**: [BrightSign Community Forums](https://github.com/orgs/BrightDevelopers/discussions)
+- **Product Documentation**: [docs.brightsign.biz](https://docs.brightsign.biz/)
+- **Product Support**: [brightsign.biz/support](https://www.brightsign.biz/support/)
+
+---
+
+## Contributing
+
+We welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to participate.
 
 ---
 
@@ -101,6 +108,6 @@ devices, _ := client.Devices.List(ctx, nil)
 
 **Brought to Life by BrightSign®**
 
-© 2025 BrightSign LLC. All rights reserved.
+© 2025-2026 BrightSign LLC. All rights reserved.
 
 </div>
