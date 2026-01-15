@@ -1,3 +1,4 @@
 root: ./profile
 structure:
   readme: README.md
+  assets: /assets
