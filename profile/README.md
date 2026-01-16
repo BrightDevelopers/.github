@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="../assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
+<img src="assets/brightdeveloper-banner.png" alt="BrightDeveloper - Build for BrightSign" width="100%">
 
 **Build on BrightSign. Ship in hours, not weeks.**
 
