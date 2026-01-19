@@ -47,9 +47,22 @@ We've designed everything here for both **humans and AI assistants**. Every guid
 
 ---
 
+## MCP Server for AI Assistants
+
+Connect your AI coding assistant directly to BrightSign documentation. The **BrightDeveloper MCP Server** gives Claude Code, GitHub Copilot, and other MCP-compatible tools access to our complete technical docs—player APIs, BSN.cloud, BrightScript, and more.
+
+```bash
+# Claude Code quick setup
+claude mcp add brightdeveloper --transport http https://brightdeveloper-mcp.bsn.cloud/mcp
+```
+
+[**MCP Server Setup Guide →**](MCP-SERVER-HOWTO.md)
+
+---
+
 ## The Go SDK: gopurple
 
-**[gopurple](https://github.com/BrightDevelopers/gopurple)** is our Go SDK for BSN.cloud—complete, tested, and designed for AI-assisted development.
+**[gopurple](https://github.com/BrightDevelopers/gopurple)** is our reference implementation for BSN.cloud—a complete, tested SDK designed to teach AI agents how to interface with BrightSign.
 
 ```go
 client, _ := gopurple.New()
@@ -63,7 +76,7 @@ devices, _ := client.Devices.List(ctx, nil)
 - Remote DWS: screenshots, reboots, file operations—all remotely
 - **73 working example programs** (not snippets—complete CLI tools)
 
-**Why Go?** AI writes excellent Go code. Strong typing catches errors at compile time, providing immediate feedback on AI-generated code. Single binary deployment eliminates dependency management. And the patterns translate—AI assistants can reference gopurple to generate correct code in any language.
+**Why Go?** Go is exceptionally easy for AI to understand. Its explicit types, minimal syntax, and straightforward patterns make gopurple an ideal reference implementation. AI agents can study this SDK and generate correct BrightSign integration code in any language they're proficient in—Python, TypeScript, C#, or anything else.
 
 ---
 
@@ -84,19 +97,6 @@ devices, _ := client.Devices.List(ctx, nil)
 **Building an on-player application?** Start with [player-examples](https://github.com/BrightDevelopers/player-examples). Interactive kiosks, data-driven displays, and local device control.
 
 **Want to understand the platform?** The [technical-documentation](https://github.com/BrightDevelopers/technical-documentation) repo has comprehensive documentation covering BrightScript, JavaScript, BSN.cloud integration, and advanced topics like NPU development.
-
----
-
-## MCP Server for AI Assistants
-
-Connect your AI coding assistant directly to BrightSign documentation. The **BrightDeveloper MCP Server** gives Claude Code, GitHub Copilot, and other MCP-compatible tools access to our complete technical docs—player APIs, BSN.cloud, BrightScript, and more.
-
-```bash
-# Claude Code quick setup
-claude mcp add brightdeveloper --transport http https://brightdeveloper-mcp.bsn.cloud/mcp
-```
-
-[**MCP Server Setup Guide →**](MCP-SERVER-HOWTO.md)
 
 ---
 
