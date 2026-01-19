@@ -87,6 +87,19 @@ devices, _ := client.Devices.List(ctx, nil)
 
 ---
 
+## MCP Server for AI Assistants
+
+Connect your AI coding assistant directly to BrightSign documentation. The **BrightDeveloper MCP Server** gives Claude Code, GitHub Copilot, and other MCP-compatible tools access to our complete technical docs—player APIs, BSN.cloud, BrightScript, and more.
+
+```bash
+# Claude Code quick setup
+claude mcp add brightdeveloper --transport http https://brightdeveloper-mcp.bsn.cloud/mcp
+```
+
+[**MCP Server Setup Guide →**](MCP-SERVER-HOWTO.md)
+
+---
+
 ## Support
 
 Need help? BrightSign provides comprehensive support resources:
