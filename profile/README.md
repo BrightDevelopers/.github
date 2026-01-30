@@ -13,7 +13,7 @@
 
 ## What is BrightDeveloper?
 
-**BrightDeveloper** is BrightSign's developer program—clear documentation, working code, and starter projects ready to customize. Whether you're building a CMS, a kiosk application, or an AI-powered analytics solution, we want you to go from idea to production as fast as possible.
+**BrightDeveloper** is BrightSign's developer program-clear documentation, working code, and starter projects ready to customize. Whether you're building a CMS, a kiosk application, or an AI-powered analytics solution, we want you to go from idea to production as fast as possible.
 
 Our goal: **your first successful API call in under 15 minutes**, and a clear path from "Hello World" to a fully working application.
 
@@ -40,10 +40,10 @@ We've designed everything here for both **humans and AI assistants**. Every guid
 
 **Our priorities:**
 
-1. **Cloud-first** — BSN.cloud APIs for managing players, content, and schedules at scale
-2. **On-player development** — Chromium (HTML/JavaScript) and Node.js for local applications
-3. **Edge AI** — NPU development on XS6 for computer vision and analytics
-4. **Extensions** — For capabilities that require going deeper
+1. **Cloud-first** - BSN.cloud APIs for managing players, content, and schedules at scale
+2. **On-player development** - Chromium (HTML/JavaScript) and Node.js for local applications
+3. **Edge AI** - NPU development on XS6 for computer vision and analytics
+4. **Extensions** - For capabilities that require going deeper
 
 ---
 
